@@ -31,6 +31,16 @@ def get_mission():
                  'First Launch Pad, Satish Dhawan Space Centre, India', 'https://nextspaceflight.com/launches/details/7530'),
         get_dict(5, '1st quarter, 2025', 'BlueBird Block 2', 'LVM-3',
                  'Second Launch Pad, Satish Dhawan Space Centre, India', 'https://nextspaceflight.com/launches/details/7689'),
+        get_dict(6, 'NET, 2025', 'Gaganyaan Demo Flight 3', 'LVM-3',
+                 'Second Launch Pad, Satish Dhawan Space Centre, India', 'https://nextspaceflight.com/launches/details/7517'),
+        get_dict(7, 'NET, 2025', 'GSAT-7R', 'GSLV MK II',
+                 'Second Launch Pad, Satish Dhawan Space Centre, India', 'https://nextspaceflight.com/launches/details/1011'),
+        get_dict(8, 'NET, 2025', 'EOS-05', 'GSLV MK II',
+                 'Second Launch Pad, Satish Dhawan Space Centre, India', 'https://nextspaceflight.com/launches/details/1508'),
+        get_dict(9, 'NET, 2025', 'HRSAT', 'PSLV-XL',
+                 'Satish Dhawan Space Centre, India', 'https://nextspaceflight.com/launches/details/1509'),
+        get_dict(10, 'NET, 2025', 'Gaganyaan Demo Flight 2', 'LVM-3',
+                 'Second Launch Pad, Satish Dhawan Space Centre, India', 'https://nextspaceflight.com/launches/details/1979'),
     ])
 
 
